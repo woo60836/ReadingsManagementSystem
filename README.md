@@ -1,2 +1,2 @@
-# XManagementSystem
+# ReadingManagementSystem
 course project for oop
