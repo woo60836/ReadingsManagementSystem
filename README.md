@@ -1,2 +1,2 @@
-# ReadingManagementSystem
+# ReadingsManagementSystem
 course project for oop
